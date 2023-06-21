@@ -1,0 +1,1 @@
+this repo is my first try to create scripts
