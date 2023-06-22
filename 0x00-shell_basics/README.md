@@ -6,3 +6,4 @@
 5-listfilesdigitonly Display current directory contents.
 
 Long formatwith user and group IDs displayed numericallyAnd hidden files (starting with .)
+6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
