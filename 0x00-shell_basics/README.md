@@ -11,3 +11,4 @@ Long formatwith user and group IDs displayed numericallyAnd hidden files (starti
 7-movethatfile
 8-firstdelete
 9-firstdirdeletion
+10-back
