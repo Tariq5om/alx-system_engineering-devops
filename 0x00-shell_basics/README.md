@@ -7,3 +7,6 @@
 
 Long formatwith user and group IDs displayed numericallyAnd hidden files (starting with .)
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
+
+7-movethatfile
+8-firstdelete
