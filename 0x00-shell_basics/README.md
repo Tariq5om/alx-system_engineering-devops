@@ -12,3 +12,4 @@ Long formatwith user and group IDs displayed numericallyAnd hidden files (starti
 8-firstdelete
 9-firstdirdeletion
 10-back
+11-lists
