@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod --form=guillaume betty hello
