@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -g vincent -u staff
+chown -R vincent:staff ./*
