@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | sort | tr " " "\n" | grep -v 00 | head -n 32
+echo {a..z}{a..z} | sort | tr " " "\n" | grep -v 00
